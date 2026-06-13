@@ -79,7 +79,7 @@ export default function Home() {
 
             <div className="flex justify-center">
               <img
-                src="https://media-cdn.flowics.com/user-library-prod/v1/team/3127/6a2dcd4a1b5e7e080a713cd0/Profesora.png"
+                src="https://media-cdn.flowics.com/user-library-prod/v1/team/3127/6a2ddc4b4cc226075f1ad12d/Negocios.png"
                 alt="Ana"
                 className="max-h-[650px] w-auto drop-shadow-2xl"
               />
@@ -124,7 +124,7 @@ export default function Home() {
 
           <div className="flex justify-center">
             <img
-              src="https://media-cdn.flowics.com/user-library-prod/v1/team/3127/6a2dd657b239d3029462054c/Profesora2.png"
+              src="https://media-cdn.flowics.com/user-library-prod/v1/team/3127/6a2dcd4a1b5e7e080a713cd0/Profesora.png"
               alt="Ana teaching Spanish"
               className="rounded-3xl shadow-xl w-full max-w-[500px]"
             />
